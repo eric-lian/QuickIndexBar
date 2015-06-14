@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"/>
+   <!--  android:antialias=""
+    android:filter=""
+    android:dither=""
+    android:src="图片资源"
+    android:gravity=""
+    android:tileMode=""
+    android:mipMap="" -->
+
+<!-- 
+android:antialias——开启或关闭抗锯齿
+android:dither——开启或关闭图像抖动
+			（如果位图与显示屏幕的像素配置不相同时会用到，比如一张ARGB 8888位图和一个RGB565的显示屏）
+android:filter——开启或关闭滤镜。当收缩或是拉伸位图时使用这个来使位图看上去更平滑。
+android:gravity——当位图大小比它所在的容器小的时候，使用这个属性来决定位图在容器中的位置。
+				可取的值有：top、bottom、left、right、center_vertical、
+				fill_vertical（纵向缩放位图使之与容器等高）、
+				center_horizontal、
+				fill_horizontal（横向缩放位图使之与容器等宽）
+				、center、fill（纵向与橫向都缩放使之完全铺满容器，这也是默认值）、
+				clip_vertical（剪切）、
+				clip_horizontal（剪切）。
+android:tileMode——定义平铺模式:
+				如果定义了，那么位图将会重复，并且Gravity属性将失效。
+				可取的值有disabled（默认值，不启用平铺）、
+				clamp（复制位图边缘的颜色来填充容器剩下的空白部分）、
+				repeat（复制整个位图来填充容器）、
+				mirror（与repeat类似，但是是交替的镜像复制，即相邻的两张是镜像对称的） -->
+

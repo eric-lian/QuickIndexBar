@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- android:scaleWidth=""
+    android:scaleHeight=""
+    android:scaleGravity=""
+    android:drawable=""
+    android:useIntrinsicSizeAsMinimum=""  -->
+</scale>
+    <!--  缩放动画-->
